@@ -1,0 +1,12 @@
+.venv/
+.cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+artifacts/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.local/
